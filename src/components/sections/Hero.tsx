@@ -45,8 +45,9 @@ export default function Hero({ data }: { data: any }) {
           >
             View Projects <ArrowRight className="w-4 h-4" />
           </a>
-          <a 
-            href="#" 
+          <a
+            href="/resume.pdf"
+            download
             className="inline-flex items-center gap-2 px-8 py-4 rounded-full glass hover:bg-white/10 transition-colors font-medium text-white"
           >
             Download Resume <Download className="w-4 h-4" />

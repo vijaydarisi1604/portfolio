@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: 'Personal portfolio of Bhanu Venkata Sai Vijay Darisi, an AI/ML Engineer.',
   },
   icons: {
-    icon: '/favicon.png',
+    icon: '/favicon.svg',
   },
 }
 
