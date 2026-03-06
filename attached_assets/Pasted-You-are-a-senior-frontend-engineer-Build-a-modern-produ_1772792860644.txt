@@ -1,0 +1,184 @@
+You are a senior frontend engineer. Build a modern, production-ready personal portfolio website.
+
+The portfolio should represent the following developer profile:
+
+Name: Bhanu Venkata Sai Vijay Darisi
+Role: Computer Science Engineer specializing in AI/ML
+Location: India
+Email: vijaydarisi1604@gmail.com
+Phone: 9292555669
+LinkedIn: https://linkedin.com/vijaydarisi
+GitHub: https://github.com/VijayDarisi
+
+Education:
+- B.Tech in Computer Science and Engineering, SRM Institute of Science and Technology (2021–2025)
+- CGPA: 9.78
+- Intermediate: Narayana Junior College (93.8%)
+
+Experience:
+Developer Intern – Sumeru Software Solutions (Jul 2024 – Sep 2024)
+Responsibilities:
+- Built automation web solutions improving developer workflows by 10x
+- Worked on production-ready systems
+- Tested payment systems and discovered multiple bugs improving UX
+
+Technical Skills:
+- Python
+- SQL / MySQL
+- RDBMS
+- C++
+- Machine Learning
+
+Projects:
+
+1. Intelligent Waste Management Dustbin
+Technologies: Python, OpenCV, Machine Learning, Arduino
+Description:
+- Smart dustbin with camera-based waste classification
+- Achieved 95% classification accuracy
+- Built with a team of four
+
+2. Translation Automation Tool
+Technologies: Node.js, JavaScript, Gemini API, Excel
+Description:
+- AI translation automation system
+- Converts JSON ↔ Excel
+- Flexible configuration system
+- Improved workflow efficiency by 40%
+
+3. AutoAsses – AI Answer Grading System
+Technologies: Python, Flask, BERT, NLP
+Description:
+- AI system for automatic grading of answers
+- Uses semantic similarity with BERT
+- Improves grading objectivity and efficiency
+
+Course:
+PwC Launchpad – Digital Analytics (PwC India)
+- IT Fundamentals
+- RDBMS
+- Python Programming
+- Data Engineering
+- Average score: 93%
+- Solved 50+ challenges
+
+Certifications:
+- Python for Data Science – NPTEL
+- Programming, Data Structures and Algorithms using Python – NPTEL
+- Python Developer – Sololearn
+- Prompt Engineering for ChatGPT – Coursera
+- Data Analysis with Python – Jovian
+
+Achievements:
+- 100% Scholarship – SRMIST
+- 1st Runner Up – SRMIST Project Day
+- 1st Runner Up – Vashisht Hackathon (IIITDM)
+- 2nd Runner Up – SheInnovates Hackathon (GDG Chennai)
+
+Extra Activities:
+- Youth Ambassador – Viral Fission
+- Technical Team Member – TechVayuna SRMIST
+
+
+--------------------------------
+
+Build a FULL portfolio website with the following requirements.
+
+Tech Stack:
+- Next.js (App Router)
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- Responsive Design
+- SEO optimized
+
+Pages:
+1. Home
+2. About
+3. Projects
+4. Experience
+5. Achievements
+6. Certifications
+7. Contact
+
+Sections Required:
+
+Hero Section
+- Name
+- Title: AI/ML Engineer
+- Short tagline
+- Buttons:
+  - View Projects
+  - Download Resume
+  - Contact Me
+
+About Section
+- Developer summary
+- Skills with icons
+- Education timeline
+
+Projects Section
+Create detailed project cards containing:
+- Project name
+- Technologies
+- Description
+- GitHub link placeholder
+- Live demo placeholder
+- Animated hover effects
+
+Experience Section
+Timeline showing internship experience.
+
+Achievements Section
+Display awards and hackathon recognitions.
+
+Certifications Section
+Grid layout with certification cards.
+
+Contact Section
+- Email
+- LinkedIn
+- GitHub
+- Contact form (frontend only)
+
+Design Requirements:
+- Clean developer portfolio aesthetic
+- Dark mode default
+- Smooth scroll navigation
+- Animated transitions using Framer Motion
+- Glassmorphism cards
+- Modern typography
+
+Additional Features:
+- Mobile responsive
+- Animated skill bars
+- GitHub profile section
+- Project filtering by tech stack
+- Scroll progress indicator
+- SEO metadata
+
+Project Structure:
+Create proper folder structure:
+
+/app
+/components
+/data
+/lib
+/styles
+
+Use reusable components.
+
+Also create:
+- project data JSON
+- skills JSON
+- achievements JSON
+
+Include sample data populated using the information provided above.
+
+Finally:
+- Write clean readable code
+- Add comments
+- Ensure production-ready structure
+- Make it deployable on Vercel
+
+Generate the full project.
