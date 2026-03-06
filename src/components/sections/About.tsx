@@ -1,3 +1,5 @@
+'use client'
+
 import { motion } from "framer-motion";
 import { GraduationCap, Code2, BrainCircuit } from "lucide-react";
 
