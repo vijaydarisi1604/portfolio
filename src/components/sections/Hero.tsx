@@ -28,7 +28,7 @@ export default function Hero({ data }: { data: any }) {
         </motion.div>
         
         <h1 className="text-5xl sm:text-7xl lg:text-8xl font-bold font-heading tracking-tight mb-6 text-white leading-[1.1]">
-          Hi, I'm {data.name.split(' ')[0]} <br />
+          Hi, I'm {data.name.split(' ').slice(2).join(' ')} <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-indigo-400 to-cyan-400">
             {data.role}
           </span>
